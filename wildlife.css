@@ -1,0 +1,157 @@
+    .main{
+            height: 100% ;
+            background-color: black;
+        }
+        .cover{
+            height: 600px;
+        }
+        .wild{
+            font-size: 40px; 
+            color: white;
+        }
+        .second{
+            height: 50px;
+            width: 100%;  
+            font-family: arial;
+            font-size: 40px;
+            color: white;
+        }
+        .third{
+            height: 450px ;
+            width: 100%;
+        }
+        .third1{
+            width: 32%;
+            height: 100%;
+            background: red;
+            float: left;
+            
+        }
+        .third2{
+            width: 32%;
+            height: 100%;
+            background: blue;
+        }
+        .third3{
+            width: 32%;
+            height: 100%;
+            background: green;
+            float: right;
+        }
+        .page2{
+            height: 600px;
+        }
+        .page21{
+            height: 150px;
+            width: 100%;  
+            font-family: arial;
+            font-size: 40px;
+            color: white;
+        }
+        .page22{
+            height: 600px;
+        }
+        .page3{
+            height: 450px ;
+            width: 100%;
+        }
+        .page31{
+            width: 48%;
+            height: 100%;
+            background: red;
+            float: left;
+            
+        }
+        .page32{
+            width: 48%;
+            height: 100%;
+            background: green;
+            float: right;
+        }
+        .page33{
+            height: 100px;
+            width: 100%;  
+            font-family: arials;
+            font-size: 40px;
+            color: white;
+        }
+        .pg33para{
+            height: 100px;
+            font-family: timesnewroman;
+            font-size: 20px;
+            color: white;
+        }
+        .pg34{
+            height: 400px ;
+            width: 100%;
+        }
+        .pg34first{
+            height: 400px;
+            width: 50%;
+            float: left;
+        }
+        .pg34second{
+            height: 400px;
+            width: 49%;
+            float: right;
+        }
+        .pg341{
+            width: 49%;
+            height: 100%;
+            background: red;
+            float: left;
+            
+        }
+        .pg342{
+            width: 49%;
+            height: 100%;
+            background: blue;
+            float: left;
+        }
+        .pg343{
+            width: 49%;
+            height: 100%;
+            background: green;
+            float: right;
+        }
+        .pg344{
+            width: 49%;
+            height: 100%;
+            background: yellow;
+            float: right;
+        }
+        .pg35{
+            height: 250px ;
+            width: 100%;
+        }
+        .pg351{
+            width: 33%;
+            height: 100%;
+            float: left; 
+            font-family: arial;
+            font-size: 40px;
+            color: white;
+            margin-top: 20px;
+        }
+        .pg352{
+            width: 33%;
+            height: 100%;
+            float: left;
+            font-family: arial;
+            font-size: 40px;
+            color: white;
+            margin-top: 0px;
+        }
+        .pg353{
+            width: 33%;
+            height: 100%;
+            float: right; 
+            font-family: arial;
+            font-size: 40px;
+            color: white;
+            margin-top: 20px;
+        }
+        .pg36{
+            height: 100px;
+            background: darkgrey;
+        }
